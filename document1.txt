@@ -1,8 +1,5 @@
 srikanth
 malineni
 first change after merge
-<<<<<<< HEAD
 third change
-=======
 second change
->>>>>>> 7476166b22aa2a9fb5ace25bc109e0471922b14e
